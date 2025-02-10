@@ -1,6 +1,6 @@
 # README
-👯 Freshman game developer at centennial college.<br/>
-🔭 Currently learning kotlin and swift<br/>
+👯 Freshman game developer at Centennial College.<br/>
+🔭 Currently diving into <b>Javascript and Python</b><br/>
 💬 Ask me about my school life and programming!<br/>
 📫 How to reach me: via email at heocode5209@gmail.com<br/>
 😄 Pronouns: he or him.<br/>
