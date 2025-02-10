@@ -5,7 +5,7 @@
 📫 How to reach me: via email at heocode5209@gmail.com<br/>
 😄 Pronouns: he or him.<br/>
 ⚡ My stack: <b>HTML, CSS, JavaScript, ReactJS, Python</b><br/>
-🖥  My social networks: [telegram](https://t.me/heopocode), [vk](https://vk.com/heocode), [youtube](https://www.youtube.com/channel/UCcvEEtswln8fjaxaUgXbT5A)
+🖥  My social networks: <em>[telegram](https://t.me/heopocode), [twitter](https://x.com/heopos1t), [youtube](https://www.youtube.com/channel/UCcvEEtswln8fjaxaUgXbT5A)</em>
 <br/></br>
 👯 Новичок-разработчик игр в колледже Centennial<br/>
 🔭 В настоящее время углубляюсь в <b>Javascript и Python</b><br/>
@@ -13,4 +13,4 @@
 📫 Как со мной связаться: по электронной почте heocode5209@gmail.com<br/>
 😄 Местоимения: он или он.<br/>
 ⚡ Мой стэк: <b>HTML, CSS, JavaScript, ReactJS, Python</b><br/>
-🖥  Мои соц сети: [telegram](https://t.me/heopocode), [vk](https://vk.com/heocode), [youtube](https://www.youtube.com/channel/UCcvEEtswln8fjaxaUgXbT5A)<br/>
+🖥  Мои соц сети: <em>[telegram](https://t.me/heopocode), [twitter](https://x.com/heopos1t), [youtube](https://www.youtube.com/channel/UCcvEEtswln8fjaxaUgXbT5A)</em><br/>
